@@ -1,3 +1,5 @@
+# The tutorial is at https://www.youtube.com/watch?v=Q2tIh4rwovY
+
 import os
 
 def is_file_malicious(file_path, malicious_signature): 
